@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        941,
+        2048
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/youngseo-Lee/ai-jam/master/embedding.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/youngseo-Lee/ai-jam/blob/master/sprite_or.jpg?raw=true",
+        "singleImageDim": [
+          31,
+          31
+        ]
+      }
+    }
+  ]
+}
